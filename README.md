@@ -1,2 +1,2 @@
-# repositorios-favoritos-github
- Script para acompanhar os respositórios favoritos do GitHub
+# Repositorios favoritos do gitHub
+ Script criado utilizando REACT JS para acompanhar os respositórios favoritos do GitHub.
